@@ -34,7 +34,7 @@ An interactive chatbot built using **Langchain**, **Groq's LLaMA 3 model**, and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/langchain-sql-chatbot-streamlit.git
+git clone (https://github.com/KartikNimhan/Langchain-SQL-Chatbot-with-Streamlit.git)
 cd langchain-sql-chatbot-streamlit
 ````
 
